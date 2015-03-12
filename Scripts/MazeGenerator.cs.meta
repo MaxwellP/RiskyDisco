@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: cdf45457416ea1b42ab36371205e9206
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Cross: {fileID: 100000, guid: b931a4d469f08ff4dad803206076f1f0, type: 2}
+  - Vertical: {fileID: 100000, guid: 4eca798742a8a9943953fa1812507898, type: 2}
+  - Horizontal: {fileID: 100000, guid: 1d44eb3794136c74e95136b3a024d6b7, type: 2}
+  - SouthWest: {fileID: 100000, guid: 525c6b3f6d8c8bd4bb81b0d742d7fb98, type: 2}
+  - SouthEast: {fileID: 100000, guid: aca9cc93004cacc46a37cbfcc9730cdd, type: 2}
+  - NorthWest: {fileID: 100000, guid: 13471f70b23bc454ca9f84321a5afb0b, type: 2}
+  - NorthEast: {fileID: 100000, guid: af2747f89cc8986409316943b2621d84, type: 2}
+  - NorthToe: {fileID: 100000, guid: 9f0ebe74402fa4048b861b2877c4c81c, type: 2}
+  - EastToe: {fileID: 100000, guid: 4c39d97bfeff9494197c715511c4a6e3, type: 2}
+  - SouthToe: {fileID: 100000, guid: 962c93aeb360add4cb956243186bb42b, type: 2}
+  - WestToe: {fileID: 100000, guid: 04ffa96ac7dd7af4e9931e82cd689d58, type: 2}
+  - NorthEnd: {fileID: 100012, guid: ed5232e92e1fa044c97d44bc7c12c764, type: 2}
+  - EastEnd: {fileID: 100016, guid: efd960ad8bc008d449d5681b7d8f6637, type: 2}
+  - SouthEnd: {fileID: 100012, guid: a5b32124ec45dfd4ea184b37e2290926, type: 2}
+  - WestEnd: {fileID: 100012, guid: 4256bfe274a2d3d4e9a99c5649254710, type: 2}
+  - FanCeiling: {instanceID: 0}
+  - Mushroom: {fileID: 100000, guid: 688388e6e8eb613419a8798ba08d17f2, type: 2}
+  - Coin: {fileID: 100000, guid: 3c2d0f36fa0568d4da7cbee597ade76d, type: 2}
+  - SupplyBox: {instanceID: 0}
+  - BreakerBox: {instanceID: 0}
+  - PipeNW: {instanceID: 0}
+  - PipeSE: {instanceID: 0}
+  - PipeSW: {instanceID: 0}
+  - PipeNE: {instanceID: 0}
+  - Pipe180: {instanceID: 0}
+  - Ghoulie: {instanceID: 0}
+  - Ghoulie2: {instanceID: 0}
+  - prefub: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

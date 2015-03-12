@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: d6b58d481c64f3944b435c39ba202316
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Boss_LP1
+    100004: Elbow
+    100006: Elbow 1
+    100008: Index
+    100010: Index 1
+    100012: Jaw_Lwr
+    100014: Jaw_Upr
+    100016: joint12
+    100018: joint14
+    100020: joint16
+    100022: joint18
+    100024: joint23
+    100026: joint25
+    100028: joint27
+    100030: joint29
+    100032: Left_Shoulder
+    100034: Neck
+    100036: Pinky
+    100038: Pinky 1
+    100040: PM3D_ZSphere_17
+    100042: polySurface1
+    100044: polySurface10
+    100046: polySurface11
+    100048: polySurface12
+    100050: polySurface13
+    100052: polySurface14
+    100054: polySurface15
+    100056: polySurface16
+    100058: polySurface17
+    100060: polySurface18
+    100062: polySurface19
+    100064: polySurface2
+    100066: polySurface20
+    100068: polySurface21
+    100070: polySurface22
+    100072: polySurface23
+    100074: polySurface24
+    100076: polySurface3
+    100078: polySurface4
+    100080: polySurface5
+    100082: polySurface6
+    100084: polySurface7
+    100086: polySurface8
+    100088: polySurface9
+    100090: Right_Shoulder
+    100092: Ring
+    100094: Ring 1
+    100096: Skeleton
+    100098: Spine_Lwr
+    100100: Spine_Upr
+    100102: Tail_End
+    100104: Tail_Mid
+    100106: Tail_Start
+    100108: Teeth_Bot1
+    100110: Teeth_Top1
+    100112: Thumb
+    100114: Thumb 1
+    100116: transform1
+    100118: transform10
+    100120: transform11
+    100122: transform12
+    100124: transform13
+    100126: transform14
+    100128: transform15
+    100130: transform16
+    100132: transform17
+    100134: transform18
+    100136: transform19
+    100138: transform2
+    100140: transform20
+    100142: transform21
+    100144: transform22
+    100146: transform23
+    100148: transform24
+    100150: transform25
+    100152: transform3
+    100154: transform4
+    100156: transform5
+    100158: transform6
+    100160: transform7
+    100162: transform8
+    100164: transform9
+    100166: Wrist
+    100168: Wrist 1
+    400000: //RootNode
+    400002: Boss_LP1
+    400004: Elbow
+    400006: Elbow 1
+    400008: Index
+    400010: Index 1
+    400012: Jaw_Lwr
+    400014: Jaw_Upr
+    400016: joint12
+    400018: joint14
+    400020: joint16
+    400022: joint18
+    400024: joint23
+    400026: joint25
+    400028: joint27
+    400030: joint29
+    400032: Left_Shoulder
+    400034: Neck
+    400036: Pinky
+    400038: Pinky 1
+    400040: PM3D_ZSphere_17
+    400042: polySurface1
+    400044: polySurface10
+    400046: polySurface11
+    400048: polySurface12
+    400050: polySurface13
+    400052: polySurface14
+    400054: polySurface15
+    400056: polySurface16
+    400058: polySurface17
+    400060: polySurface18
+    400062: polySurface19
+    400064: polySurface2
+    400066: polySurface20
+    400068: polySurface21
+    400070: polySurface22
+    400072: polySurface23
+    400074: polySurface24
+    400076: polySurface3
+    400078: polySurface4
+    400080: polySurface5
+    400082: polySurface6
+    400084: polySurface7
+    400086: polySurface8
+    400088: polySurface9
+    400090: Right_Shoulder
+    400092: Ring
+    400094: Ring 1
+    400096: Skeleton
+    400098: Spine_Lwr
+    400100: Spine_Upr
+    400102: Tail_End
+    400104: Tail_Mid
+    400106: Tail_Start
+    400108: Teeth_Bot1
+    400110: Teeth_Top1
+    400112: Thumb
+    400114: Thumb 1
+    400116: transform1
+    400118: transform10
+    400120: transform11
+    400122: transform12
+    400124: transform13
+    400126: transform14
+    400128: transform15
+    400130: transform16
+    400132: transform17
+    400134: transform18
+    400136: transform19
+    400138: transform2
+    400140: transform20
+    400142: transform21
+    400144: transform22
+    400146: transform23
+    400148: transform24
+    400150: transform25
+    400152: transform3
+    400154: transform4
+    400156: transform5
+    400158: transform6
+    400160: transform7
+    400162: transform8
+    400164: transform9
+    400166: Wrist
+    400168: Wrist 1
+    2300000: Teeth_Bot1
+    2300002: Teeth_Top1
+    3300000: Teeth_Bot1
+    3300002: Teeth_Top1
+    4300000: Boss_LP1
+    4300002: Teeth_Top1
+    4300004: Teeth_Bot1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Boss_LP1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

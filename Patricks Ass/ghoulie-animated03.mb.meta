@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: a33108c16d067554ba223bc01f4ef9b6
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ghoulie16:Group1
+    100004: Ghoulie2_Ctrl_ChestEndEffector
+    100006: Ghoulie2_Ctrl_ChestOriginEffector
+    100008: Ghoulie2_Ctrl_Head
+    100010: Ghoulie2_Ctrl_HeadEffector
+    100012: Ghoulie2_Ctrl_Hips
+    100014: Ghoulie2_Ctrl_HipsEffector
+    100016: Ghoulie2_Ctrl_LeftAnkleEffector
+    100018: Ghoulie2_Ctrl_LeftArm
+    100020: Ghoulie2_Ctrl_LeftElbowEffector
+    100022: Ghoulie2_Ctrl_LeftFoot
+    100024: Ghoulie2_Ctrl_LeftFootMiddle1
+    100026: Ghoulie2_Ctrl_LeftFootMiddle2
+    100028: Ghoulie2_Ctrl_LeftFootMiddleEffector
+    100030: Ghoulie2_Ctrl_LeftForeArm
+    100032: Ghoulie2_Ctrl_LeftHand
+    100034: Ghoulie2_Ctrl_LeftHandIndex1
+    100036: Ghoulie2_Ctrl_LeftHandIndex2
+    100038: Ghoulie2_Ctrl_LeftHandIndex3
+    100040: Ghoulie2_Ctrl_LeftHandIndexEffector
+    100042: Ghoulie2_Ctrl_LeftHandMiddle1
+    100044: Ghoulie2_Ctrl_LeftHandMiddle2
+    100046: Ghoulie2_Ctrl_LeftHandMiddle3
+    100048: Ghoulie2_Ctrl_LeftHandMiddleEffector
+    100050: Ghoulie2_Ctrl_LeftHandRing1
+    100052: Ghoulie2_Ctrl_LeftHandRing2
+    100054: Ghoulie2_Ctrl_LeftHandRing3
+    100056: Ghoulie2_Ctrl_LeftHandRingEffector
+    100058: Ghoulie2_Ctrl_LeftHipEffector
+    100060: Ghoulie2_Ctrl_LeftKneeEffector
+    100062: Ghoulie2_Ctrl_LeftLeg
+    100064: Ghoulie2_Ctrl_LeftShoulder
+    100066: Ghoulie2_Ctrl_LeftShoulderEffector
+    100068: Ghoulie2_Ctrl_LeftUpLeg
+    100070: Ghoulie2_Ctrl_LeftWristEffector
+    100072: Ghoulie2_Ctrl_Neck
+    100074: Ghoulie2_Ctrl_Reference
+    100076: Ghoulie2_Ctrl_RightAnkleEffector
+    100078: Ghoulie2_Ctrl_RightArm
+    100080: Ghoulie2_Ctrl_RightElbowEffector
+    100082: Ghoulie2_Ctrl_RightFoot
+    100084: Ghoulie2_Ctrl_RightFootMiddle1
+    100086: Ghoulie2_Ctrl_RightFootMiddle2
+    100088: Ghoulie2_Ctrl_RightFootMiddleEffector
+    100090: Ghoulie2_Ctrl_RightForeArm
+    100092: Ghoulie2_Ctrl_RightHand
+    100094: Ghoulie2_Ctrl_RightHandIndex1
+    100096: Ghoulie2_Ctrl_RightHandIndex2
+    100098: Ghoulie2_Ctrl_RightHandIndex3
+    100100: Ghoulie2_Ctrl_RightHandIndexEffector
+    100102: Ghoulie2_Ctrl_RightHandMiddle1
+    100104: Ghoulie2_Ctrl_RightHandMiddle2
+    100106: Ghoulie2_Ctrl_RightHandMiddle3
+    100108: Ghoulie2_Ctrl_RightHandMiddleEffector
+    100110: Ghoulie2_Ctrl_RightHandRing1
+    100112: Ghoulie2_Ctrl_RightHandRing2
+    100114: Ghoulie2_Ctrl_RightHandRing3
+    100116: Ghoulie2_Ctrl_RightHandRingEffector
+    100118: Ghoulie2_Ctrl_RightHipEffector
+    100120: Ghoulie2_Ctrl_RightKneeEffector
+    100122: Ghoulie2_Ctrl_RightLeg
+    100124: Ghoulie2_Ctrl_RightShoulder
+    100126: Ghoulie2_Ctrl_RightShoulderEffector
+    100128: Ghoulie2_Ctrl_RightUpLeg
+    100130: Ghoulie2_Ctrl_RightWristEffector
+    100132: Ghoulie2_Ctrl_Spine
+    100134: Ghoulie2_Ctrl_Spine1
+    100136: Ghoulie2_Ctrl_Spine2
+    100138: Ghoulie2_Head
+    100140: Ghoulie2_Hips
+    100142: Ghoulie2_LeftArm
+    100144: Ghoulie2_LeftFoot
+    100146: Ghoulie2_LeftFootMiddle1
+    100148: Ghoulie2_LeftFootMiddle2
+    100150: Ghoulie2_LeftForeArm
+    100152: Ghoulie2_LeftHand
+    100154: Ghoulie2_LeftHandIndex1
+    100156: Ghoulie2_LeftHandIndex2
+    100158: Ghoulie2_LeftHandIndex3
+    100160: Ghoulie2_LeftHandMiddle1
+    100162: Ghoulie2_LeftHandMiddle2
+    100164: Ghoulie2_LeftHandMiddle3
+    100166: Ghoulie2_LeftHandRing1
+    100168: Ghoulie2_LeftHandRing2
+    100170: Ghoulie2_LeftHandRing3
+    100172: Ghoulie2_LeftLeg
+    100174: Ghoulie2_LeftShoulder
+    100176: Ghoulie2_LeftUpLeg
+    100178: Ghoulie2_Neck
+    100180: Ghoulie2_Reference
+    100182: Ghoulie2_RightArm
+    100184: Ghoulie2_RightFoot
+    100186: Ghoulie2_RightFootMiddle1
+    100188: Ghoulie2_RightFootMiddle2
+    100190: Ghoulie2_RightForeArm
+    100192: Ghoulie2_RightHand
+    100194: Ghoulie2_RightHandIndex1
+    100196: Ghoulie2_RightHandIndex2
+    100198: Ghoulie2_RightHandIndex3
+    100200: Ghoulie2_RightHandMiddle1
+    100202: Ghoulie2_RightHandMiddle2
+    100204: Ghoulie2_RightHandMiddle3
+    100206: Ghoulie2_RightHandRing1
+    100208: Ghoulie2_RightHandRing2
+    100210: Ghoulie2_RightHandRing3
+    100212: Ghoulie2_RightLeg
+    100214: Ghoulie2_RightShoulder
+    100216: Ghoulie2_RightUpLeg
+    100218: Ghoulie2_Spine
+    100220: Ghoulie2_Spine1
+    100222: Ghoulie2_Spine2
+    100224: ikHandle1
+    100226: joint1
+    100228: joint10
+    100230: joint11
+    100232: joint2
+    100234: joint3
+    100236: joint4
+    100238: joint5
+    100240: joint6
+    100242: joint7
+    100244: joint8
+    100246: joint9
+    400000: //RootNode
+    400002: ghoulie16:Group1
+    400004: Ghoulie2_Ctrl_ChestEndEffector
+    400006: Ghoulie2_Ctrl_ChestOriginEffector
+    400008: Ghoulie2_Ctrl_Head
+    400010: Ghoulie2_Ctrl_HeadEffector
+    400012: Ghoulie2_Ctrl_Hips
+    400014: Ghoulie2_Ctrl_HipsEffector
+    400016: Ghoulie2_Ctrl_LeftAnkleEffector
+    400018: Ghoulie2_Ctrl_LeftArm
+    400020: Ghoulie2_Ctrl_LeftElbowEffector
+    400022: Ghoulie2_Ctrl_LeftFoot
+    400024: Ghoulie2_Ctrl_LeftFootMiddle1
+    400026: Ghoulie2_Ctrl_LeftFootMiddle2
+    400028: Ghoulie2_Ctrl_LeftFootMiddleEffector
+    400030: Ghoulie2_Ctrl_LeftForeArm
+    400032: Ghoulie2_Ctrl_LeftHand
+    400034: Ghoulie2_Ctrl_LeftHandIndex1
+    400036: Ghoulie2_Ctrl_LeftHandIndex2
+    400038: Ghoulie2_Ctrl_LeftHandIndex3
+    400040: Ghoulie2_Ctrl_LeftHandIndexEffector
+    400042: Ghoulie2_Ctrl_LeftHandMiddle1
+    400044: Ghoulie2_Ctrl_LeftHandMiddle2
+    400046: Ghoulie2_Ctrl_LeftHandMiddle3
+    400048: Ghoulie2_Ctrl_LeftHandMiddleEffector
+    400050: Ghoulie2_Ctrl_LeftHandRing1
+    400052: Ghoulie2_Ctrl_LeftHandRing2
+    400054: Ghoulie2_Ctrl_LeftHandRing3
+    400056: Ghoulie2_Ctrl_LeftHandRingEffector
+    400058: Ghoulie2_Ctrl_LeftHipEffector
+    400060: Ghoulie2_Ctrl_LeftKneeEffector
+    400062: Ghoulie2_Ctrl_LeftLeg
+    400064: Ghoulie2_Ctrl_LeftShoulder
+    400066: Ghoulie2_Ctrl_LeftShoulderEffector
+    400068: Ghoulie2_Ctrl_LeftUpLeg
+    400070: Ghoulie2_Ctrl_LeftWristEffector
+    400072: Ghoulie2_Ctrl_Neck
+    400074: Ghoulie2_Ctrl_Reference
+    400076: Ghoulie2_Ctrl_RightAnkleEffector
+    400078: Ghoulie2_Ctrl_RightArm
+    400080: Ghoulie2_Ctrl_RightElbowEffector
+    400082: Ghoulie2_Ctrl_RightFoot
+    400084: Ghoulie2_Ctrl_RightFootMiddle1
+    400086: Ghoulie2_Ctrl_RightFootMiddle2
+    400088: Ghoulie2_Ctrl_RightFootMiddleEffector
+    400090: Ghoulie2_Ctrl_RightForeArm
+    400092: Ghoulie2_Ctrl_RightHand
+    400094: Ghoulie2_Ctrl_RightHandIndex1
+    400096: Ghoulie2_Ctrl_RightHandIndex2
+    400098: Ghoulie2_Ctrl_RightHandIndex3
+    400100: Ghoulie2_Ctrl_RightHandIndexEffector
+    400102: Ghoulie2_Ctrl_RightHandMiddle1
+    400104: Ghoulie2_Ctrl_RightHandMiddle2
+    400106: Ghoulie2_Ctrl_RightHandMiddle3
+    400108: Ghoulie2_Ctrl_RightHandMiddleEffector
+    400110: Ghoulie2_Ctrl_RightHandRing1
+    400112: Ghoulie2_Ctrl_RightHandRing2
+    400114: Ghoulie2_Ctrl_RightHandRing3
+    400116: Ghoulie2_Ctrl_RightHandRingEffector
+    400118: Ghoulie2_Ctrl_RightHipEffector
+    400120: Ghoulie2_Ctrl_RightKneeEffector
+    400122: Ghoulie2_Ctrl_RightLeg
+    400124: Ghoulie2_Ctrl_RightShoulder
+    400126: Ghoulie2_Ctrl_RightShoulderEffector
+    400128: Ghoulie2_Ctrl_RightUpLeg
+    400130: Ghoulie2_Ctrl_RightWristEffector
+    400132: Ghoulie2_Ctrl_Spine
+    400134: Ghoulie2_Ctrl_Spine1
+    400136: Ghoulie2_Ctrl_Spine2
+    400138: Ghoulie2_Head
+    400140: Ghoulie2_Hips
+    400142: Ghoulie2_LeftArm
+    400144: Ghoulie2_LeftFoot
+    400146: Ghoulie2_LeftFootMiddle1
+    400148: Ghoulie2_LeftFootMiddle2
+    400150: Ghoulie2_LeftForeArm
+    400152: Ghoulie2_LeftHand
+    400154: Ghoulie2_LeftHandIndex1
+    400156: Ghoulie2_LeftHandIndex2
+    400158: Ghoulie2_LeftHandIndex3
+    400160: Ghoulie2_LeftHandMiddle1
+    400162: Ghoulie2_LeftHandMiddle2
+    400164: Ghoulie2_LeftHandMiddle3
+    400166: Ghoulie2_LeftHandRing1
+    400168: Ghoulie2_LeftHandRing2
+    400170: Ghoulie2_LeftHandRing3
+    400172: Ghoulie2_LeftLeg
+    400174: Ghoulie2_LeftShoulder
+    400176: Ghoulie2_LeftUpLeg
+    400178: Ghoulie2_Neck
+    400180: Ghoulie2_Reference
+    400182: Ghoulie2_RightArm
+    400184: Ghoulie2_RightFoot
+    400186: Ghoulie2_RightFootMiddle1
+    400188: Ghoulie2_RightFootMiddle2
+    400190: Ghoulie2_RightForeArm
+    400192: Ghoulie2_RightHand
+    400194: Ghoulie2_RightHandIndex1
+    400196: Ghoulie2_RightHandIndex2
+    400198: Ghoulie2_RightHandIndex3
+    400200: Ghoulie2_RightHandMiddle1
+    400202: Ghoulie2_RightHandMiddle2
+    400204: Ghoulie2_RightHandMiddle3
+    400206: Ghoulie2_RightHandRing1
+    400208: Ghoulie2_RightHandRing2
+    400210: Ghoulie2_RightHandRing3
+    400212: Ghoulie2_RightLeg
+    400214: Ghoulie2_RightShoulder
+    400216: Ghoulie2_RightUpLeg
+    400218: Ghoulie2_Spine
+    400220: Ghoulie2_Spine1
+    400222: Ghoulie2_Spine2
+    400224: ikHandle1
+    400226: joint1
+    400228: joint10
+    400230: joint11
+    400232: joint2
+    400234: joint3
+    400236: joint4
+    400238: joint5
+    400240: joint6
+    400242: joint7
+    400244: joint8
+    400246: joint9
+    4300000: ghoulie16:Group1
+    7400000: Kitty
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ghoulie16:Group1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Kitty
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_ChestEndEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_HeadEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_LeftUpLeg
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_LeftUpLeg/Ghoulie2_Ctrl_LeftLeg
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_LeftUpLeg/Ghoulie2_Ctrl_LeftLeg/Ghoulie2_Ctrl_LeftFoot
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_LeftUpLeg/Ghoulie2_Ctrl_LeftLeg/Ghoulie2_Ctrl_LeftFoot/Ghoulie2_Ctrl_LeftFootMiddle1
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_LeftUpLeg/Ghoulie2_Ctrl_LeftLeg/Ghoulie2_Ctrl_LeftFoot/Ghoulie2_Ctrl_LeftFootMiddle1/Ghoulie2_Ctrl_LeftFootMiddle2
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_RightUpLeg
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_RightUpLeg/Ghoulie2_Ctrl_RightLeg
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_RightUpLeg/Ghoulie2_Ctrl_RightLeg/Ghoulie2_Ctrl_RightFoot
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_RightUpLeg/Ghoulie2_Ctrl_RightLeg/Ghoulie2_Ctrl_RightFoot/Ghoulie2_Ctrl_RightFootMiddle1
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_RightUpLeg/Ghoulie2_Ctrl_RightLeg/Ghoulie2_Ctrl_RightFoot/Ghoulie2_Ctrl_RightFootMiddle1/Ghoulie2_Ctrl_RightFootMiddle2
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand/Ghoulie2_Ctrl_LeftHandIndex1
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand/Ghoulie2_Ctrl_LeftHandIndex1/Ghoulie2_Ctrl_LeftHandIndex2
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand/Ghoulie2_Ctrl_LeftHandIndex1/Ghoulie2_Ctrl_LeftHandIndex2/Ghoulie2_Ctrl_LeftHandIndex3
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand/Ghoulie2_Ctrl_LeftHandMiddle1
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand/Ghoulie2_Ctrl_LeftHandMiddle1/Ghoulie2_Ctrl_LeftHandMiddle2
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand/Ghoulie2_Ctrl_LeftHandMiddle1/Ghoulie2_Ctrl_LeftHandMiddle2/Ghoulie2_Ctrl_LeftHandMiddle3
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand/Ghoulie2_Ctrl_LeftHandRing1
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand/Ghoulie2_Ctrl_LeftHandRing1/Ghoulie2_Ctrl_LeftHandRing2
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_LeftShoulder/Ghoulie2_Ctrl_LeftArm/Ghoulie2_Ctrl_LeftForeArm/Ghoulie2_Ctrl_LeftHand/Ghoulie2_Ctrl_LeftHandRing1/Ghoulie2_Ctrl_LeftHandRing2/Ghoulie2_Ctrl_LeftHandRing3
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_Neck
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_Neck/Ghoulie2_Ctrl_Head
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand/Ghoulie2_Ctrl_RightHandIndex1
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand/Ghoulie2_Ctrl_RightHandIndex1/Ghoulie2_Ctrl_RightHandIndex2
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand/Ghoulie2_Ctrl_RightHandIndex1/Ghoulie2_Ctrl_RightHandIndex2/Ghoulie2_Ctrl_RightHandIndex3
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand/Ghoulie2_Ctrl_RightHandMiddle1
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand/Ghoulie2_Ctrl_RightHandMiddle1/Ghoulie2_Ctrl_RightHandMiddle2
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand/Ghoulie2_Ctrl_RightHandMiddle1/Ghoulie2_Ctrl_RightHandMiddle2/Ghoulie2_Ctrl_RightHandMiddle3
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand/Ghoulie2_Ctrl_RightHandRing1
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand/Ghoulie2_Ctrl_RightHandRing1/Ghoulie2_Ctrl_RightHandRing2
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_Hips/Ghoulie2_Ctrl_Spine/Ghoulie2_Ctrl_Spine1/Ghoulie2_Ctrl_Spine2/Ghoulie2_Ctrl_RightShoulder/Ghoulie2_Ctrl_RightArm/Ghoulie2_Ctrl_RightForeArm/Ghoulie2_Ctrl_RightHand/Ghoulie2_Ctrl_RightHandRing1/Ghoulie2_Ctrl_RightHandRing2/Ghoulie2_Ctrl_RightHandRing3
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_HipsEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftFootMiddleEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftHandIndexEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftHandMiddleEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftHandRingEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftHipEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_LeftWristEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightElbowEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightFootMiddleEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightHandIndexEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightHandMiddleEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightHandRingEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightHipEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightKneeEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: Ghoulie2_Ctrl_Reference/Ghoulie2_Ctrl_RightWristEffector
+        weight: 1
+      - path: Ghoulie2_Reference
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_LeftUpLeg
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_LeftUpLeg/Ghoulie2_LeftLeg
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_LeftUpLeg/Ghoulie2_LeftLeg/Ghoulie2_LeftFoot
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_LeftUpLeg/Ghoulie2_LeftLeg/Ghoulie2_LeftFoot/Ghoulie2_LeftFootMiddle1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_LeftUpLeg/Ghoulie2_LeftLeg/Ghoulie2_LeftFoot/Ghoulie2_LeftFootMiddle1/Ghoulie2_LeftFootMiddle2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_RightUpLeg
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_RightUpLeg/Ghoulie2_RightLeg
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_RightUpLeg/Ghoulie2_RightLeg/Ghoulie2_RightFoot
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_RightUpLeg/Ghoulie2_RightLeg/Ghoulie2_RightFoot/Ghoulie2_RightFootMiddle1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_RightUpLeg/Ghoulie2_RightLeg/Ghoulie2_RightFoot/Ghoulie2_RightFootMiddle1/Ghoulie2_RightFootMiddle2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand/Ghoulie2_LeftHandIndex1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand/Ghoulie2_LeftHandIndex1/Ghoulie2_LeftHandIndex2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand/Ghoulie2_LeftHandIndex1/Ghoulie2_LeftHandIndex2/Ghoulie2_LeftHandIndex3
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand/Ghoulie2_LeftHandMiddle1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand/Ghoulie2_LeftHandMiddle1/Ghoulie2_LeftHandMiddle2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand/Ghoulie2_LeftHandMiddle1/Ghoulie2_LeftHandMiddle2/Ghoulie2_LeftHandMiddle3
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand/Ghoulie2_LeftHandRing1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand/Ghoulie2_LeftHandRing1/Ghoulie2_LeftHandRing2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_LeftShoulder/Ghoulie2_LeftArm/Ghoulie2_LeftForeArm/Ghoulie2_LeftHand/Ghoulie2_LeftHandRing1/Ghoulie2_LeftHandRing2/Ghoulie2_LeftHandRing3
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_Neck
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_Neck/Ghoulie2_Head
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand/Ghoulie2_RightHandIndex1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand/Ghoulie2_RightHandIndex1/Ghoulie2_RightHandIndex2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand/Ghoulie2_RightHandIndex1/Ghoulie2_RightHandIndex2/Ghoulie2_RightHandIndex3
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand/Ghoulie2_RightHandMiddle1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand/Ghoulie2_RightHandMiddle1/Ghoulie2_RightHandMiddle2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand/Ghoulie2_RightHandMiddle1/Ghoulie2_RightHandMiddle2/Ghoulie2_RightHandMiddle3
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand/Ghoulie2_RightHandRing1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand/Ghoulie2_RightHandRing1/Ghoulie2_RightHandRing2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/Ghoulie2_Spine/Ghoulie2_Spine1/Ghoulie2_Spine2/Ghoulie2_RightShoulder/Ghoulie2_RightArm/Ghoulie2_RightForeArm/Ghoulie2_RightHand/Ghoulie2_RightHandRing1/Ghoulie2_RightHandRing2/Ghoulie2_RightHandRing3
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2/joint3
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: Ghoulie2_Reference/Ghoulie2_Hips/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: ghoulie16:Group1
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00749999983
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

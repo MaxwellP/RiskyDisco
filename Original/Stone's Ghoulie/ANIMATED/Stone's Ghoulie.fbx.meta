@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 633d06c9ceb5cf74aba8f3d2b49405b0
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Ghoulie_Hips
+    100002: Ghoulie_LeftArm
+    100004: Ghoulie_LeftFoot
+    100006: Ghoulie_LeftForeArm
+    100008: Ghoulie_LeftHand
+    100010: Ghoulie_LeftHandIndex1
+    100012: Ghoulie_LeftHandIndex2
+    100014: Ghoulie_LeftHandMiddle1
+    100016: Ghoulie_LeftHandMiddle2
+    100018: Ghoulie_LeftHandPinky1
+    100020: Ghoulie_LeftHandPinky2
+    100022: Ghoulie_LeftHandRing1
+    100024: Ghoulie_LeftHandRing2
+    100026: Ghoulie_LeftLeg
+    100028: Ghoulie_LeftShoulder
+    100030: Ghoulie_LeftToeBase
+    100032: Ghoulie_LeftUpLeg
+    100034: Ghoulie_LP1
+    100036: Ghoulie_Neck
+    100038: Ghoulie_Neck1
+    100040: Ghoulie_Neck2
+    100042: Ghoulie_Reference
+    100044: Ghoulie_RightArm
+    100046: Ghoulie_RightFoot
+    100048: Ghoulie_RightForeArm
+    100050: Ghoulie_RightHand
+    100052: Ghoulie_RightHandIndex1
+    100054: Ghoulie_RightHandIndex2
+    100056: Ghoulie_RightHandMiddle1
+    100058: Ghoulie_RightHandMiddle2
+    100060: Ghoulie_RightHandPinky1
+    100062: Ghoulie_RightHandPinky2
+    100064: Ghoulie_RightHandRing1
+    100066: Ghoulie_RightHandRing2
+    100068: Ghoulie_RightLeg
+    100070: Ghoulie_RightShoulder
+    100072: Ghoulie_RightToeBase
+    100074: Ghoulie_RightUpLeg
+    100076: Ghoulie_Spine
+    100078: Ghoulie_Spine1
+    100080: Ghoulie_Spine2
+    100082: Ghoulie_Spine3
+    100084: joint1
+    100086: joint2
+    100088: joint3
+    100090: joint4
+    100092: joint5
+    100094: //RootNode
+    400000: Ghoulie_Hips
+    400002: Ghoulie_LeftArm
+    400004: Ghoulie_LeftFoot
+    400006: Ghoulie_LeftForeArm
+    400008: Ghoulie_LeftHand
+    400010: Ghoulie_LeftHandIndex1
+    400012: Ghoulie_LeftHandIndex2
+    400014: Ghoulie_LeftHandMiddle1
+    400016: Ghoulie_LeftHandMiddle2
+    400018: Ghoulie_LeftHandPinky1
+    400020: Ghoulie_LeftHandPinky2
+    400022: Ghoulie_LeftHandRing1
+    400024: Ghoulie_LeftHandRing2
+    400026: Ghoulie_LeftLeg
+    400028: Ghoulie_LeftShoulder
+    400030: Ghoulie_LeftToeBase
+    400032: Ghoulie_LeftUpLeg
+    400034: Ghoulie_LP1
+    400036: Ghoulie_Neck
+    400038: Ghoulie_Neck1
+    400040: Ghoulie_Neck2
+    400042: Ghoulie_Reference
+    400044: Ghoulie_RightArm
+    400046: Ghoulie_RightFoot
+    400048: Ghoulie_RightForeArm
+    400050: Ghoulie_RightHand
+    400052: Ghoulie_RightHandIndex1
+    400054: Ghoulie_RightHandIndex2
+    400056: Ghoulie_RightHandMiddle1
+    400058: Ghoulie_RightHandMiddle2
+    400060: Ghoulie_RightHandPinky1
+    400062: Ghoulie_RightHandPinky2
+    400064: Ghoulie_RightHandRing1
+    400066: Ghoulie_RightHandRing2
+    400068: Ghoulie_RightLeg
+    400070: Ghoulie_RightShoulder
+    400072: Ghoulie_RightToeBase
+    400074: Ghoulie_RightUpLeg
+    400076: Ghoulie_Spine
+    400078: Ghoulie_Spine1
+    400080: Ghoulie_Spine2
+    400082: Ghoulie_Spine3
+    400084: joint1
+    400086: joint2
+    400088: joint3
+    400090: joint4
+    400092: joint5
+    400094: //RootNode
+    4300000: Ghoulie_LP1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Ghoulie_LP1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 13
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ghoulie_LP1
+        weight: 1
+      - path: Ghoulie_Reference
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_LeftUpLeg
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_LeftUpLeg/Ghoulie_LeftLeg
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_LeftUpLeg/Ghoulie_LeftLeg/joint1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_LeftUpLeg/Ghoulie_LeftLeg/joint1/Ghoulie_LeftFoot
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_LeftUpLeg/Ghoulie_LeftLeg/joint1/Ghoulie_LeftFoot/Ghoulie_LeftToeBase
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_RightUpLeg
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_RightUpLeg/Ghoulie_RightLeg
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_RightUpLeg/Ghoulie_RightLeg/joint2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_RightUpLeg/Ghoulie_RightLeg/joint2/Ghoulie_RightFoot
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_RightUpLeg/Ghoulie_RightLeg/joint2/Ghoulie_RightFoot/Ghoulie_RightToeBase
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm/Ghoulie_LeftHand
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm/Ghoulie_LeftHand/Ghoulie_LeftHandIndex1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm/Ghoulie_LeftHand/Ghoulie_LeftHandIndex1/Ghoulie_LeftHandIndex2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm/Ghoulie_LeftHand/Ghoulie_LeftHandMiddle1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm/Ghoulie_LeftHand/Ghoulie_LeftHandMiddle1/Ghoulie_LeftHandMiddle2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm/Ghoulie_LeftHand/Ghoulie_LeftHandPinky1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm/Ghoulie_LeftHand/Ghoulie_LeftHandPinky1/Ghoulie_LeftHandPinky2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm/Ghoulie_LeftHand/Ghoulie_LeftHandRing1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_LeftShoulder/Ghoulie_LeftArm/Ghoulie_LeftForeArm/Ghoulie_LeftHand/Ghoulie_LeftHandRing1/Ghoulie_LeftHandRing2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_Neck
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_Neck/Ghoulie_Neck1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_Neck/Ghoulie_Neck1/Ghoulie_Neck2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm/Ghoulie_RightHand
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm/Ghoulie_RightHand/Ghoulie_RightHandIndex1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm/Ghoulie_RightHand/Ghoulie_RightHandIndex1/Ghoulie_RightHandIndex2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm/Ghoulie_RightHand/Ghoulie_RightHandMiddle1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm/Ghoulie_RightHand/Ghoulie_RightHandMiddle1/Ghoulie_RightHandMiddle2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm/Ghoulie_RightHand/Ghoulie_RightHandPinky1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm/Ghoulie_RightHand/Ghoulie_RightHandPinky1/Ghoulie_RightHandPinky2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm/Ghoulie_RightHand/Ghoulie_RightHandRing1
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/Ghoulie_Spine/Ghoulie_Spine1/Ghoulie_Spine2/Ghoulie_Spine3/Ghoulie_RightShoulder/Ghoulie_RightArm/Ghoulie_RightForeArm/Ghoulie_RightHand/Ghoulie_RightHandRing1/Ghoulie_RightHandRing2
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/joint3
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/joint3/joint4
+        weight: 1
+      - path: Ghoulie_Reference/Ghoulie_Hips/joint3/joint4/joint5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 
